@@ -8,19 +8,14 @@ const userData = {
   address: "Jakarta, Indonesia.",
   projects: [
     {
-      title: "Netflix Clone",
-      link: "https://netflix-clone-cd386.web.app/",
+      title: "Honda Smart Device",
+      link: "https://honda-indonesia.com",
       imgUrl: "/netflix-clone.png",
     },
     {
-      title: "Facebook Clone",
-      link: "https://facebook-messenger-clone-95627.web.app/",
+      title: "Honda Connect",
+      link: "https://honda-indonesia.com",
       imgUrl: "/facebook-clone.png",
-    },
-    {
-      title: "Pokedex",
-      link: "http://pokedex-raselldev.vercel.app/",
-      imgUrl: "/pokedex.jpeg",
     },
     
   ],

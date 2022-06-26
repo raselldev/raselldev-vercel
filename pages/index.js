@@ -14,7 +14,7 @@ export default function Home({ repositories }) {
       description="Raka Rasell personal portfolio"
     >
       <Hero />
-      <FavouriteProjects />
+      {/* <FavouriteProjects /> */}
       <LatestCode repositories={repositories} />
     </ContainerBlock>
   );
