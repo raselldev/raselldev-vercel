@@ -9,7 +9,6 @@ export default function Footer() {
         <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row justify-between md:items-center mt-8">
           <div>
             <p>&copy; {new Date().getFullYear()} Raka Rasell. All Rights Reserved.</p>
-            <p>Render time: {renderTime()}</p>
           </div>
 
           <div className="space-x-4 flex flex-row items-center">
