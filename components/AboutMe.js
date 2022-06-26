@@ -104,48 +104,6 @@ export default function AboutMe() {
                 {desc}
               </p>
             ))}
-
-            <h1 className="bg-red-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
-              Tech Stack
-            </h1>
-            <div className="flex flex-row flex-wrap mt-8">
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-                className="h-20 w-20 mx-4 my-4"
-              />
-            </div>
           </div>
         </div>
       </div>
