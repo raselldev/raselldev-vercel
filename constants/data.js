@@ -12,11 +12,6 @@ const userData = {
       link: "https://play.google.com/store/apps/details?id=com.hpm.hondasmartdevice&hl=en&gl=US",
       imgUrl: "https://play-lh.googleusercontent.com/-SFbre4Ib1hPm4Tl78XqhFWGIF9dO0XzBsFzAR09gVyRLBH9aECXRNDxgpbPjAlPCw=w240-h480-rw",
     },
-    {
-      title: "Honda Connect",
-      link: "https://honda-indonesia.com",
-      imgUrl: "https://play-lh.googleusercontent.com/KFkEWgI2u8P40inDdU1GajQHjNb4L9r-piqKnCH4RzGljYEN9dwXdGpnu5FMYALpZnU",
-    },
     
   ],
   about: {
