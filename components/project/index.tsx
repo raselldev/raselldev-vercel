@@ -40,7 +40,7 @@ export const Project = () => {
                   }}
                >
                   From 2016, i created my YouTube channel. But until now 
-                  i don't have nichie to make my channel growing. The second is Medium,
+                  i don&lsquo;t have nichie to make my channel growing. The second is Medium,
                   this for me learn how to write a post.
                </Text>
 

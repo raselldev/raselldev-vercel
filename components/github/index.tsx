@@ -70,7 +70,7 @@ const GithubRepo: React.FunctionComponent = () => {
             >
                {repositories.map((repo, index) => (
                   index < 4  && (
-                     <Link href={repo.html_url}>
+                     <Link href={repo.html_url} key={repo.id}>
                         <Card css={
                            {
                               minHeight: '120px',
