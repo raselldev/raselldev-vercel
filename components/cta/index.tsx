@@ -24,7 +24,7 @@ export const Cta = () => {
                   textAlign: 'center',
                }}
             >
-               "Komunikasi tidak hanya tentang menyampaikan pesan, tetapi juga mendengarkan dengan sepenuh hati." - Senja
+               Komunikasi tidak hanya tentang menyampaikan pesan, tetapi juga mendengarkan dengan sepenuh hati. - Senja
             </Text>
 
             <Link href="mailto:rakarasell@outlook.com">
