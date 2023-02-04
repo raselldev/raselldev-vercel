@@ -19,7 +19,7 @@ const GithubRepo: React.FunctionComponent = () => {
    const [repositories, setRepositories] = useState<Repository[]>([])
 
    useEffect(() => {
-      fetch('https://api.github.com/users/raselldev/repos')
+      fetch('https://api.github.com/users/raselldev/repos?sort=created&direction=desc')
       .then(res => res.json())
       .then((data: any) => {
          if(Array.isArray(data)) setRepositories(data)
